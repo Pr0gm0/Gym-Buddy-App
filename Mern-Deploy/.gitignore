@@ -1,0 +1,12 @@
+node_modules
+.pnp
+
+coverage
+
+build
+
+.env
+.DS_Store
+.env.local
+.env.development.local
+npm-debug.log*
